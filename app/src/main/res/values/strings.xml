@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Laboratorio2</string>
+    <string name="restart">Restart</string>
+    <string name="name0">0</string>
+    <string name="round">Round</string>
+</resources>
